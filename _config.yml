@@ -1,9 +1,9 @@
 # Site settings
 title: Fenacity
 description: >
-  Automation testing blog
+  Automation testing
 
-baseurl: "/fenblog" # the subpath of your site, e.g. /blog/
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://fenacity.com" # the base hostname & protocol for your site
 
 author:
