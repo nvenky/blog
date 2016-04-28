@@ -1,0 +1,10 @@
+<br/>
+
+<div class='post_categories'>
+  TAGS:
+  {% for category in page.categories %}
+   <a href="{{ '/categories/' | append: category | prepend: site.baseurl }}">
+    <div class="page-category__tag">{{ category }}</div>
+  </a>
+  {% endfor %}
+</div
