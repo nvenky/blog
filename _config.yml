@@ -3,12 +3,12 @@ title: Fenacity
 description: >
   Automation testing
 
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://fenacity.com" # the base hostname & protocol for your site
 
 author:
   fullname: Venkatesh Nannan
-  googleplus: https://www.google.com/+MotaquillahMaddane
+  googleplus: https://www.google.com/+fenacity
   github: fenacity
   twitter: fenacity
 # google_analytics: 'UA-XXXXXXXX-X'
