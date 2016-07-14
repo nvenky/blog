@@ -3,7 +3,7 @@ title: Fenacity
 description: >
   Automation testing
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://fenacity.com" # the base hostname & protocol for your site
 
 author:
